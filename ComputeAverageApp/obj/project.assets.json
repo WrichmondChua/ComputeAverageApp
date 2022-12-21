@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\ComputeAverageApp\\ComputeAverageApp.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\ComputeAverageApp\\ComputeAverageApp\\ComputeAverageApp.csproj",
       "projectName": "ComputeAverageApp",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\ComputeAverageApp\\ComputeAverageApp.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\ComputeAverageApp\\ComputeAverageApp\\ComputeAverageApp.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\ComputeAverageApp\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\ComputeAverageApp\\ComputeAverageApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
