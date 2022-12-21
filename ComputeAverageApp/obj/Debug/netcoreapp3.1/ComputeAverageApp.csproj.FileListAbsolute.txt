@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ComputeAverageApp\bin\Debug\netcoreapp3.1\ComputeAverageApp.exe
+C:\Users\ADMIN\source\repos\ComputeAverageApp\bin\Debug\netcoreapp3.1\ComputeAverageApp.deps.json
+C:\Users\ADMIN\source\repos\ComputeAverageApp\bin\Debug\netcoreapp3.1\ComputeAverageApp.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ComputeAverageApp\bin\Debug\netcoreapp3.1\ComputeAverageApp.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ComputeAverageApp\bin\Debug\netcoreapp3.1\ComputeAverageApp.dll
+C:\Users\ADMIN\source\repos\ComputeAverageApp\bin\Debug\netcoreapp3.1\ComputeAverageApp.pdb
+C:\Users\ADMIN\source\repos\ComputeAverageApp\obj\Debug\netcoreapp3.1\ComputeAverageApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ComputeAverageApp\obj\Debug\netcoreapp3.1\ComputeAverageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ComputeAverageApp\obj\Debug\netcoreapp3.1\ComputeAverageApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ComputeAverageApp\obj\Debug\netcoreapp3.1\ComputeAverageApp.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ComputeAverageApp\obj\Debug\netcoreapp3.1\ComputeAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ComputeAverageApp\obj\Debug\netcoreapp3.1\ComputeAverageApp.dll
+C:\Users\ADMIN\source\repos\ComputeAverageApp\obj\Debug\netcoreapp3.1\ComputeAverageApp.pdb
+C:\Users\ADMIN\source\repos\ComputeAverageApp\obj\Debug\netcoreapp3.1\ComputeAverageApp.genruntimeconfig.cache
